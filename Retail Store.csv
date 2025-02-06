@@ -1,0 +1,9 @@
+Transaction_ID,Customer_ID,Customer_Age,Customer_Gender,Product_Category,Product_Name,Product_Price,Quantity_Purchased,Total_Amount,Purchase_Date,Store_Location,Payment_Mode,Discount_Applied,Net_Total,Feedback_Score
+T001,C001,25,Male,Electronics,Smartphone,15000,1,15000,1/1/2025,Bengaluru,Card,10%,13500,4
+T002,C002,30,Female,Clothing,Jeans,2000,2,4000,1/2/2025,Mumbai,Cash,5%,3800,5
+T003,C003,22,Female,Groceries,Rice Bag,1000,3,3000,1/3/2025,Delhi,UPI,0%,3000,3
+T004,C004,35,Male,Electronics,Laptop,50000,1,50000,1/4/2025,Hyderabad,Card,15%,42500,5
+T005,C005,28,Female,Clothing,Jacket,3000,1,3000,1/5/2025,Chennai,Cash,10%,2700,4
+T006,C006,40,Male,Electronics,Headphones,2000,1,2000,1/6/2025,Bengaluru,Card,5%,1900,4
+T007,C007,24,Female,Groceries,Vegetable Pack,500,4,2000,1/6/2025,Pune,UPI,0%,2000,3
+T008,C008,33,Male,Clothing,T-shirt,1000,3,3000,1/7/2025,Kolkata,UPI,5%,2850,4
